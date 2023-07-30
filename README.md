@@ -1,1 +1,1 @@
-# pod-request-access-landing-page
+Webpage built with HTML5,CSS3 & Javascript. Hosting Url:https://lushenmoodley.github.io/pod-request-access-landing-page/. Screen design is replicated from https://www.frontendmentor.io/challenges/pod-request-access-landing-page-eyTmdkLSG
