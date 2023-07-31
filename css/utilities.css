@@ -1,0 +1,18 @@
+.chino{
+    /* Chivo */
+font-family: 'Chivo';
+font-style: normal;
+font-weight: 900;
+font-size: 200px;
+line-height: 238px;
+/* identical to box height */
+color:white;
+
+}
+
+.characters{
+    width: 25px;
+    height: 10px;
+    background: green;
+    overflow: hidden;d
+}
