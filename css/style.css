@@ -206,3 +206,7 @@ img{
     color:black;
     margin-left: 23%;
 }
+
+.paragprah-container{
+    display:flex;
+}
